@@ -2,7 +2,7 @@
 **AI-Powered Crop Yield Prediction And Optimization**
 
 
-##Project Overview:##💎
+**Project Overview:**💎
 
 Cyber-Attack-Prevention is a cybersecurity platform developed to proactively identify, monitor, and mitigate cyber threats targeting modern digital infrastructures. The system focuses on enhancing organizational security through continuous monitoring, threat detection, vulnerability assessment, and automated defense mechanisms. By analyzing security events and identifying suspicious activities in real time, the platform helps prevent unauthorized access, malware infections, phishing attempts, data breaches, and other cyber-attacks before they can cause significant damage.
 
